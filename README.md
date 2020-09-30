@@ -43,7 +43,7 @@ Then use a table of contents.  The name in the Parentheses must exactly match th
 
  For future use.
  
-##
+## UsefulCircuitPythonStuff
 
 My former Engineering 3 Kiddos wanted you to have this webpage, they found this site was crucial in helping them figure out how to switch their brains from Arduino to Circuit Python. So bookmark this site!
 
