@@ -7,7 +7,7 @@ This Tome of Knowledge is here to help my Engineering 3 kiddos do their best wit
 * [Template](#Template)
 * [Exemplars](#Exemplars)
 * [UsefulGitStuff](#UsefulGitStuff)
-* [Future stuff](#Future_Stuff)
+* [UsefulCircuitPythonStuff](#UsefulCircuitPythonStuff)
 
 
 ## Template
@@ -40,3 +40,9 @@ Then use a table of contents.  The name in the Parentheses must exactly match th
 ## UsefulGitStuff
 
  For future use.
+ 
+##
+
+My former Engineering 3 Kiddos wanted you to have this webpage, they found this site was crucial in helping them figure out how to switch their brains from Arduino to Circuit Python. So bookmark this site!
+
+[Adafruit CircuitPython Guide](https://learn.adafruit.com/welcome-to-circuitpython/overview)
