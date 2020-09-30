@@ -7,11 +7,8 @@ This Tome of Knowledge is here to help my Engineering 3 kiddos do their best wit
 * [Template](#Template)
 * [Exemplars](#Exemplars)
 * [UsefulGitStuff](#UsefulGitStuff)
-* [Photo Interrupter](#Photo-Interrupter)
-* [Distance Sensor](#Distance-Sensor)
-* [Classes, Objects, and Modules](#Classes-Objects-and-Modules)
-* [Hello vs Code](#Hello-VSCode)
-* [Fancy LED](#Fancy-LED)
+* [Future stuff](#Future_Stuff)
+
 
 ## Template
 Your readme should start off with a header title, like this
