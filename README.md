@@ -37,6 +37,8 @@ Then use a table of contents.  The name in the Parentheses must exactly match th
 
 [This student did an awesome job with formatted snippets of his code, and really clear and well sized imaged](https://github.com/lmiller87/CircuitPython).  I didn't like the reflections or descriptions as much, too brief.
 
+[His first few reflections were AMAZING.](https://github.com/vwellmo57/CircuitPython/blob/master/README.md) but the second half tapered off.  Just look at the first couple reflections.
+
 ## UsefulGitStuff
 
  For future use.
